@@ -51,8 +51,9 @@
 - **[Date]**: Solved first Project Euler problem
 
 ---
-
 ## 📁 Repository Structure
+
+```
 mit-math-foundation/
 ├── 📁 phase-1-calculus/            # 18.01SC Single Variable Calculus
 │   ├── 📁 unit-1-differentiation/
@@ -70,3 +71,132 @@ mit-math-foundation/
 ├── 📁 progress-tracking/           # Logs and reviews
 ├── 📁 resources/                   # Reference materials
 └── 📁 final-portfolio/             # Showcase of completed work
+```
+
+---
+
+## Study Schedule
+
+### Current Week: [Week X]
+**Focus**: [Current unit/topic]  
+**Goal**: [This week's main objective]
+
+- [ ] Monday: [Specific tasks]
+- [ ] Tuesday: [Specific tasks]
+- [ ] Wednesday: [Specific tasks]
+- [ ] Thursday: [Specific tasks]
+- [ ] Friday: [Specific tasks]
+- [ ] Weekend: [Specific tasks]
+
+### Time Investment
+- **Target**: 12-15 hours/week
+- **Actual This Week**: [X] hours
+- **Total So Far**: [X]/300 hours
+
+---
+
+## Resources Used
+
+### Primary Courses
+- **MIT 18.01SC**: [Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
+- **MIT 6.042J**: [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+
+### Supplementary Materials
+- **Textbook**: "How to Prove It" by Daniel Velleman
+- **Practice**: [Project Euler](https://projecteuler.net/) problems
+- **Visualization**: Desmos, GeoGebra for graphing
+- **Typesetting**: LaTeX for formal mathematics
+
+### Tools & Setup
+- **Programming**: Python 3.x with Jupyter notebooks
+- **Note-taking**: Markdown with LaTeX math support
+- **Version Control**: Git with this repository
+- **Environment**: [Your setup details]
+
+---
+
+## Milestones & Achievements
+
+### 🎯 Phase 1 Targets
+- [ ] **Week 3**: Complete Unit 1 (Differentiation)
+- [ ] **Week 6**: Master optimization problems
+- [ ] **Week 9**: Solid integration techniques
+- [ ] **Week 12**: Pass 18.01SC final assessment
+
+### 🎯 Phase 2 Targets  
+- [ ] **Week 15**: Comfortable with formal proofs
+- [ ] **Week 18**: Implement graph algorithms
+- [ ] **Week 21**: Apply number theory to cryptography
+- [ ] **Week 24**: Complete discrete math foundation
+
+### 🏆 Current Achievements
+<!-- Update as you progress -->
+- [ ] First successful derivative calculation
+- [ ] First formal proof written
+- [ ] First Project Euler problem solved
+- [ ] First unit exam passed
+
+---
+
+## Connect & Support
+
+### Study Approach
+This is a **self-directed** program following MIT's curriculum exactly. I'm using:
+- MIT OCW lectures as primary instruction
+- Problem sets for practice and assessment
+- Project Euler for coding application
+- Personal projects for deeper understanding
+
+### Progress Sharing
+- **Daily**: Brief session logs in [daily-logs](progress-tracking/daily-logs/)
+- **Weekly**: Comprehensive reviews in [weekly-reviews](progress-tracking/weekly-reviews/)
+- **Monthly**: Major progress reports and adjustments
+
+### Feedback Welcome
+If you're doing similar self-study or have suggestions:
+- Open an [issue](../../issues) for study tips or resource recommendations
+- Check out my [Project Euler solutions](project-euler/) for coding approaches
+- Look at my [proof portfolio](phase-2-discrete/) for mathematical writing examples
+
+---
+
+## Motivation & Goals
+
+### Why This Matters
+Mathematics is the foundation of computer science. This intensive program builds:
+- **Analytical thinking**: Breaking down complex problems systematically
+- **Formal reasoning**: Writing and understanding rigorous proofs
+- **Algorithmic intuition**: Mathematical basis for algorithm design
+- **Communication skills**: Explaining technical concepts clearly
+
+### After Completion
+This foundation prepares for advanced courses in:
+- Algorithms and data structures
+- Machine learning and artificial intelligence  
+- Cryptography and security
+- Database systems and optimization
+- Computational theory
+
+### Personal Motivation
+[Add your personal reasons for taking on this challenge]
+
+---
+
+## License & Usage
+
+This repository contains my personal study materials and solutions. You're welcome to:
+- ✅ Reference my approach and structure
+- ✅ Adapt templates for your own study
+- ✅ Learn from my mistakes and successes
+
+Please **don't**:
+- ❌ Submit my solutions as your own work
+- ❌ Copy without understanding the mathematics
+- ❌ Skip the foundational work for shortcuts
+
+**Remember**: The goal is mathematical understanding, not just completion.
+
+---
+
+*Started: [Start Date] | Last Updated: [Current Date]*
+*"Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding." - William Paul Thurston*
