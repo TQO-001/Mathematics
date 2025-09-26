@@ -10,11 +10,11 @@
 ## Quick Links
 - [📋 Study Plan](study-plan.md)
 - [📊 Progress Dashboard](#progress-dashboard)
-- [🧮 Phase 1: Calculus](phase-1-calculus/)
-- [🔢 Phase 2: Discrete Math](phase-2-discrete/)
-- [🏆 Project Euler Solutions](project-euler/)
+	- [🧮 Phase 1: Calculus](phase-1-calculus/)
+	- [🔢 Phase 2: Discrete Math](phase-2-discrete/)
+	- [🏆 Project Euler Solutions](project-euler/)
 - [📝 Daily Logs](progress-tracking/daily-logs/)
-
+---
 ## Progress Dashboard
 
 ### Phase 1: Single Variable Calculus (18.01SC)
